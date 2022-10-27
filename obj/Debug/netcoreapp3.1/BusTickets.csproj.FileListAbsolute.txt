@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/bin/Debug/netcoreapp3.1/BusTickets.deps.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/bin/Debug/netcoreapp3.1/BusTickets.runtimeconfig.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/bin/Debug/netcoreapp3.1/BusTickets.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/bin/Debug/netcoreapp3.1/BusTickets.dll
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/bin/Debug/netcoreapp3.1/BusTickets.pdb
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.AssemblyInfo.cs
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.dll
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.pdb
+/Users/migleczigergo/Projects/GitHub/Console Apps/BusTickets/obj/Debug/netcoreapp3.1/BusTickets.genruntimeconfig.cache
